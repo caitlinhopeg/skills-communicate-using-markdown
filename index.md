@@ -3,4 +3,6 @@
 
 (![Geology ](https://github.com/user-attachments/assets/2297196c-f89e-496d-b49b-116d03da434b)
 
-var myVar = "Hello, world!"; 
+javascript
+var myVar = "Hello, world!";
+
