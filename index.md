@@ -3,5 +3,4 @@
 
 (![Geology ](https://github.com/user-attachments/assets/2297196c-f89e-496d-b49b-116d03da434b)
 
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/ 
+var myVar = "Hello, world!"; 
